@@ -1,6 +1,14 @@
 ### Boas vindas ao meu peril. 👋
-- Meu nome è Brenda Prestes De Mello ❤️‍🔥
-- 
+- Meu nome é Brenda Prestes De Mello ❤️‍🔥
+- estou aprendendo a programar com a plataforma Alura. 🎡
+- Me interessam as Linguagens de pogramação: javaScript e Scrtch. 🌍
+- Tambèm estou aprendendo Linguagens e Marcação:HTML e CSS.
+- Utilizo esse espaço para salvar meus projetos e comprtilhar meus còdigos.
+
+  ### Meu e_mail para contato é
+  Brenda.prestes.mello@escola.pr.gov.br
+
+  ![](http:media.tenor.com/cdgu_rxp5vwAAAAd?cat-hiss.gif)
 
 <!--
 **breemello/breemello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
